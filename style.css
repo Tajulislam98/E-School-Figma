@@ -1,0 +1,140 @@
+.container {
+   margin-top: 80px;
+   background-color: aqua;
+}
+.sing-in{
+   margin-top: 10px;
+   width: 100px;
+   border: 10px;
+   color: white;
+   background: #21B573;
+   border-radius: 33px;
+}
+.photos{
+   margin:none;
+   margin-left:  50%;
+   background-position: center;
+}
+.header h1{
+   color: 
+   #FD511A;
+   margin-top: 20px;
+   font-size: large;
+   margin-left: 15px;
+}
+.header h2{
+   color: rgb(0, 0, 0);
+   font-size: 65px;
+   margin-top: 20px;
+   margin-left: 15px;
+}
+.header h3{
+   color:#21B573 ;
+   margin-top: 20px;
+   font-size: 60px;
+   margin-left:15px;
+}
+.header p{
+   color: #6C6B6B;
+   margin-top: 20px;
+   margin-left: 15px;
+   font-size: 20px;
+}
+.header button{
+   color: white;
+   background-color: #21B573;
+   width: 120px;
+   border-radius: 33px;
+   border: 10px;
+   margin-top: 20px;
+   margin-left: 15px;
+}
+.text{
+   margin-top: auto;
+}
+.container2{
+   margin-top: 50px;
+}
+.container2 .card{
+   box-shadow: 10px 10px 20px rgb(108, 114, 117);
+}
+.container2 h5{
+   color: black;
+}
+.container2 p{
+   color: rgb(255, 0, 64);
+}
+/* card end */
+.container3 h3{
+   margin-left: 40%;
+   margin-top: 80px;
+   font-size: 60px;
+}
+.container3 .button2{
+   border: 10px;
+   color: white;
+   background: #21B573;
+   border-radius: 15px ;
+   width: 100px;
+}
+.container3 p{
+   color: rgb(163, 160, 160);
+}
+.container3 .card{
+   margin-top: 40px;
+  box-shadow: 10px 10px 30px ;
+  margin-bottom: 40px;
+}
+.container3 .clan{
+   margin-top: 40px;
+}
+.container3 .cat1{
+   margin-top: 20px;
+   font-size: 12px;
+}
+.container3 .cat2{
+   margin-right: 60px;
+   margin-top: 20px;
+   font-size: 20px;
+}
+.container4 h4{
+   margin-top: 80px;
+   margin-left: 45%;
+   font-size: 60px;
+}
+.container4 .pic{
+   margin-left: 70px;
+   margin-bottom: 20px;
+}
+.container4 .text-2{
+   margin-top: 50px;
+   color: black;
+   margin-right: 20px;
+   
+}
+.container5{
+   background-color: black;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.container5 p{
+   margin-top: 50px;
+   margin-left: 30px;
+   color: white;
+}
+.header6{
+   margin-left: 40px;
+   color: white;
+}
+.unoder{
+   color: lightcyan;
+}
+.footer{
+   text-align: center;
+   margin-bottom: 20px;
+   color: #21B573;
+}
+
+
+
+
